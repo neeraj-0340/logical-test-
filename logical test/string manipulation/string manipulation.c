@@ -10,7 +10,7 @@ int main()
     scanf("%[^\n]%*c", s);
     n = strlen(s);
 
-    printf("\n enter character : ");
+    printf(" enter character : ");
     scanf(" %c", &ch);
 
     for (i = 0; i < n; i++)
